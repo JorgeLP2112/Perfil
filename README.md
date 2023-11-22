@@ -30,6 +30,7 @@
 > ![Foto Jorge Martínez](img/jorge.jpg)
 > # Jorge Martínez 
 > *Estudiante de ISC en el Tecnológico Nacional de México Campus Chihuahua 2*
+>
 > [GitHub](https://github.com/JorgeLP2112) / [StackOverflow](https://stackoverflow.com/users/22765098/jorge-martínez)
 > ## :boy: Perfil
 > Persona comunicativa, amable y capaz de adaptarse a cada situación. Busco una oportunidad laboral en la que demostrar mi compromiso y capacidad de trabajo. En mis empleos anteriores siempre he destacado por mi buena productividad y mi capacidad de aprender rápidamente.
